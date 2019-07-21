@@ -21,7 +21,7 @@
 ![edit 3](https://user-images.githubusercontent.com/52862381/61593956-dd593080-ac03-11e9-92dd-b385bf409f6e.PNG)
 ![EDIT 2](https://user-images.githubusercontent.com/52862381/61593891-1b098980-ac03-11e9-8432-6658ccc6bbe5.PNG)
 
-## Login for Student
+## Login for FACULTY
 ![facultylogin](https://user-images.githubusercontent.com/52862381/61594117-6886f600-ac05-11e9-85d4-7ed207d4d69d.PNG)
 
 ## EIGIBIITY STUDENT RETRIVAL
