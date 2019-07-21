@@ -18,4 +18,5 @@
 
 ## EDITING
 ![EDIT 1](https://user-images.githubusercontent.com/52862381/61593889-15ac3f00-ac03-11e9-93a6-148bc39c105e.PNG)
+![edit 3](https://user-images.githubusercontent.com/52862381/61593956-dd593080-ac03-11e9-92dd-b385bf409f6e.PNG)
 ![EDIT 2](https://user-images.githubusercontent.com/52862381/61593891-1b098980-ac03-11e9-8432-6658ccc6bbe5.PNG)
